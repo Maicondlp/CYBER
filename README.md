@@ -4,3 +4,9 @@
 * ![Comandos Úteis](https://github.com/Maicondlp/CYBER/blob/main/TIPS/comandos_uteis.md)
 * ![IPTables](https://github.com/Maicondlp/CYBER/blob/main/TIPS/iptables.md)
 
+# SITES 
+https://blog.g0tmi1k.com/
+
+https://gtfobins.github.io/
+
+https://doctorscripto.com/
