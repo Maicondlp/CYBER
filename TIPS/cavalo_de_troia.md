@@ -52,7 +52,7 @@ Abrir o shellter e passar o caminho do putty. Em seguida selecionar o meterprete
 * set AutoRunScript ARQUIVO.rc
 
 --------
-## Como assegurar conexão com o sistema mesmo esse sendo desligado através de uma técnica chamada persistência + exercício
+## Como assegurar conexão com o sistema mesmo esse sendo desligado através de uma técnica chamada persistência
 No meterpreter 
 ~~~~~
 meterprete> run persistence -h
