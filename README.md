@@ -14,3 +14,6 @@ https://blog.g0tmi1k.com/
 https://gtfobins.github.io/
 
 https://doctorscripto.com/
+
+### Shell cheat sheet 
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
