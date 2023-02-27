@@ -38,7 +38,9 @@ Nova aba como administrador
 ~~~
 
 ### Mais um método de extração dessa vez com um dos módulos do Impacket chamado Secretdump
+~~~
 git clone impacket
 pip install -r requirements.txt
 python3 setup.py install
 secretsdump.py -sam sam -system system LOCAL
+~~~
